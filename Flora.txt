@@ -1,0 +1,12 @@
+Name: Flora
+Class: Cleric
+Level: 10
+Number of Hit Points: 79
+Stats:
+	Strength: 17
+	Dexterity: 8
+	Constitution: 19
+	Intelligence: 13
+	Wisdom: 20
+	Charisma: 19
+Spell List:

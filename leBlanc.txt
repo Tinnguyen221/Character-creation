@@ -1,0 +1,12 @@
+Name: leBlanc
+Class: Wizard
+Level: 12
+Number of Hit Points: 57
+Stats:
+	Strength: 19
+	Dexterity: 9
+	Constitution: 12
+	Intelligence: 14
+	Wisdom: 16
+	Charisma: 9
+Spell List:

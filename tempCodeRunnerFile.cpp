@@ -1,0 +1,1 @@
+magnus.setSingleStat(Character::STR, 20);

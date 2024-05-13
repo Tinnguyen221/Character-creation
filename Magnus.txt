@@ -1,0 +1,11 @@
+Name: Magnus
+Class: Fighter
+Level: 3
+Number of Hit Points: 28
+Stats:
+	Strength: 20
+	Dexterity: 14
+	Constitution: 15
+	Intelligence: 10
+	Wisdom: 11
+	Charisma: 12

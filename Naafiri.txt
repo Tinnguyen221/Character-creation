@@ -1,0 +1,11 @@
+Name: Naafiri
+Class: Fighter
+Level: 13
+Number of Hit Points: 61
+Stats:
+	Strength: 14
+	Dexterity: 9
+	Constitution: 8
+	Intelligence: 15
+	Wisdom: 12
+	Charisma: 8
